@@ -1,0 +1,16 @@
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ManipuladorDeArquivos.exe
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ManipuladorDeArquivos.deps.json
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ManipuladorDeArquivos.runtimeconfig.json
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ManipuladorDeArquivos.runtimeconfig.dev.json
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ManipuladorDeArquivos.dll
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ref\ManipuladorDeArquivos.dll
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\bin\Debug\net5.0\ManipuladorDeArquivos.pdb
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.dll
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ref\ManipuladorDeArquivos.dll
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.pdb
+C:\Users\Usuário\Desktop\PROJETOS C#\ProjetosEmExcecao\ManipuladorDeArquivos\obj\Debug\net5.0\ManipuladorDeArquivos.genruntimeconfig.cache
